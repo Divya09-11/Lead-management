@@ -1,4 +1,4 @@
-# test-project
+A simple vue.js code to store the new registrations data
 
 ## Project setup
 ```
